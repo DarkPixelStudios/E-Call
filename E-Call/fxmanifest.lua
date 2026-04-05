@@ -3,7 +3,7 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'Patrik'
+author 'Patkali09'
 description 'Unfallscript mit Crash-Detection und E-CALL Dispatch'
 version '1.0.0'
 
